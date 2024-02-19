@@ -7,7 +7,7 @@ git add --all
 
 git commit -m "add project"
 
-git remote add origin <remote repository URL>
+git remote add <branch name> <remote repository URL>
 
 git remote -v
 
